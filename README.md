@@ -9,7 +9,7 @@
 
 # ResolutionControl3
 
-ResolutionControl3 is a fork of [ResolutionControl++](https://github.com/UltimateBoomer/Resolution-Control) that I updated to the latest versions and will continue updating. This mod is typically used to increase your framerate as much as you want, and is especially useful on high resolution monitors. For example I have a 4k monitor and used this mod to render in 1080p, quadrupling my framerate. This mod does not affect the HUD/GUI so your inventory and menus will still look just as good!
+ResolutionControl3 is a fork of [ResolutionControl+](https://github.com/UltimateBoomer/Resolution-Control) that I updated to the latest versions and will continue updating. This mod is typically used to increase your framerate as much as you want, and is especially useful on high resolution monitors. For example I have a 4k monitor and used this mod to render in 1080p, quadrupling my framerate. This mod does not affect the HUD/GUI so your inventory and menus will still look just as good!
 
 Join our discord at [https://discord.gg/qJVwSK99G2](https://discord.gg/qJVwSK99G2) for support.
 
